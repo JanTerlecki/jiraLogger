@@ -1,0 +1,9 @@
+{
+  "name": "jiraLogger",
+  "version": "0.1.0",
+  "devDependencies": {
+    "jira-connector": "*",
+    "dateformat": "*",
+	"prompt": "*"
+  }
+}
